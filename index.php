@@ -49,6 +49,7 @@
 			<img src="images/<?php echo $platos[$diaActual]?>"
 				alt="Foto del plato" />
 			<div class="precio"><?php echo $precio[$diaActual]?></div>
+			<br />
 	<div id="servicios"></div>
 		</section>
 		
