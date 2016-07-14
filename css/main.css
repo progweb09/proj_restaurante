@@ -68,11 +68,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup,
 	display: block;
 	text-align:center;
 	height: 26px;
-	width: 120px;
+	width: 220px;
 	background-color: #000;
 	color: white;
 	margin: 15px auto;
 	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
 	
 	
 }
@@ -101,4 +102,8 @@ nav ul li a:hover {
 header nav {
 	margin-top: 5%;
 	float: right;
+}
+#servicios{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
 }
